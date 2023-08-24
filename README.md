@@ -1,8 +1,16 @@
 ![logo](https://github.com/Abhijeet-108/Abhijeet-108/blob/main/Abhijeet..png)
-<h1 align="center">Hi 👋, I'm Abhijeet</h1>
-<h3 align="center">नमस्ते || Hello Everyone ||</h3>
+# Hi 👋, I'm Abhijeet
+## नमस्ते || Hello Everyone ||
 
 <img align="center" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
+
+```python
+Name = "Abhijeet"
+Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
+Languages = ["C", "C++", "Python", "HTML", "CSS"]
+OS = [ "Ubuntu", "Windows","Kali Linux"]
+
+```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeet-108" alt="abhijeet-108" /></a> </p>
 
