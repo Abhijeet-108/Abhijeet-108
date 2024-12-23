@@ -18,7 +18,7 @@ OS = [ "Ubuntu", "Windows","Kali Linux"]
 
 - 🌱 I’m currently learning **tailwindcss , Data Structure & Algorithm using C++ , Javascript**
 
-- 📫 How to reach me **abhijeetkr889@gmail.com**
+- 📫 How to reach me **abhijeetofficial.034@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
