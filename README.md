@@ -4,36 +4,71 @@
 
 <img align="center" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 
-```python
+```c
 Name = "Abhijeet"
-Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS"]
-OS = [ "Ubuntu", "Windows","Kali Linux"]
-
+Interests = ["Coding", "Problem Solving", "Machine Learning", "App Development"]
+Languages = ["C", "Cpp", "Python", "HTML", "CSS", "Javascript (Node JS)", "React JS", "Basic Java"]
+Frameworks/Libraries: ["Redux", "Express", "Tailwind CSS", "Flutter"]
+Cloud/Databases: ["Google Cloud", "MongoDB", "Mysql"]
+OS = ["Ubuntu", "Windows"]
 ```
+
+## 💻 My Workstation
+![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Ubuntu_22.04-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
+![](https://img.shields.io/badge/Intel-i5_13th_Gen-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=01a9ea)
+![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=success)
+![](https://img.shields.io/badge/Intel-iRIS_Xe-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=4bbf92)
+
+##
+#
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeet-108" alt="abhijeet-108" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abhijee10852115" target="blank"><img src="https://img.shields.io/twitter/follow/@abhijee10852115?logo=twitter&style=for-the-badge" alt="@abhijee10852115" /></a> </p>
 
-- 🌱 I’m currently learning **tailwindcss , Data Structure & Algorithm using C++ , Javascript**
+##
+### Connect with me:
+<div align=center>
+<a href="https://linkedin.com/in/linkedin.com/in/abhijeet-48ab351ab" alt="Abhijeet | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="" alt="Abhijeet | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+<a href="https://twitter.com/@abhijee10852115" alt="Abhijeet | Twitter"><img src="https://img.icons8.com/color/50/twitter.png"></a> &nbsp;
+<a href="mailto:abhijeetofficial.034@gmail.com" alt="Abhijeet | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a> &nbsp;
+<a href="" alt="Abhijeet | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"></a> &nbsp;
+<a href="https://www.leetcode.com/https://leetcode.com/abhijeet-108/" alt="Satyaki Dey | Leetcode"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a> &nbsp;
+</div>
 
-- 📫 How to reach me **abhijeetofficial.034@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abhijee10852115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhijee10852115" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/abhijeet-48ab351ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhijeet-48ab351ab" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/abhijeet-108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/abhijeet-108" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/abhijeetkr889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhijeetkr889" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhijeet-108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhijeet-108/" height="30" width="40" /></a>
-</p>
+##
+### Languages and Tools:
+<div align=center>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+##
+### Statistics :  
+##
+<div align="center">
+   <a href="https://github.com/Abhijeet-108">
+   <img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-108&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&border_color=808080" width=40% height=90%/>
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/Abhijeet-108">
+   <img src="https://streak-stats.demolab.com/?user=Abhijeet-108&theme=solarized-light&hide_border=true&background=transparent" alt="Abhijeet-108" width=44% height=100%/>
+   <br/>
+   </a>
+   
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet-108&show_icons=true&locale=en&layout=compact" alt="abhijeet-108" /></p>
+<div align=center> 
+   &nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijeet-108&show_icons=true&langs_count=8&hide=makefile&size_weight=0.5&count_weight=0.5&theme=panda&bg_color=00000000&border_color=808080&locale=en&layout=compact&hide_border=true" alt="Abhijeet-108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet-108&show_icons=true&locale=en" alt="abhijeet-108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-108&" alt="abhijeet-108" /></p>
+</div>
+
+##
+#
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Activity Graph:</span></h2></p>
+
+![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-108&bg_color=false&color=ffffff&line=27e8a7&point=ffffff&area=true&hide_border=true)
