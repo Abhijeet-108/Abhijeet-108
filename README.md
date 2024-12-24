@@ -7,8 +7,8 @@
 ```c
 Name = "Abhijeet"
 Interests = ["Coding", "Problem Solving", "Machine Learning", "App Development"]
-Languages = ["C", "Cpp", "Python", "HTML", "CSS", "Javascript (Node JS)", "React JS", "Basic Java"]
-Frameworks/Libraries: ["Redux", "Express", "Tailwind CSS", "Flutter"]
+Languages = ["C", "Cpp", "Python", "HTML", "CSS", "Javascript (Node JS, React)", "React JS", "Basic Java"]
+Frameworks/Libraries: ["Redux", "Express", "Tailwind CSS"]
 Cloud/Databases: ["Google Cloud", "MongoDB", "Mysql"]
 OS = ["Ubuntu", "Windows"]
 ```
