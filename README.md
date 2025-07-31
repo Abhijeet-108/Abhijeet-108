@@ -53,7 +53,7 @@ OS = ["Ubuntu", "Windows",]
 </div>
 
 ##
-### Statistics :  
+### Statistic :  
 <div align="center">
    <a href="https://github.com/Abhijeet-108">
    <img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-108&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&border_color=808080" width=40% height=90%/>
