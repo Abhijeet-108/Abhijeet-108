@@ -13,7 +13,7 @@ Cloud/Databases: ["Google Cloud", "MongoDB", "Mysql"]
 OS = ["Ubuntu", "Windows",]
 ```
 
-## 💻 My Workstation
+## 💻 My Workstations
 ![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
 ![](https://img.shields.io/badge/Ubuntu_22.04-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
 ![](https://img.shields.io/badge/Intel-i5_13th_Gen-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=01a9ea)
